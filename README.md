@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 My name is Merli Märtin and I am beginner in Data Engineering. At this point I would like to share my knowledge and codes via GitHub.
-![profile](img/profile.jpg)
+
+![profile](profile.jpg)
 
 #### Facts
 --------------
