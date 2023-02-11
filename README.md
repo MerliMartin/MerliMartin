@@ -7,7 +7,7 @@ My name is Merli Märtin and I am beginner in Data Engineering. At this point I 
 #### Facts
 --------------
 
-- :seedling: I am currently learning more about Data Science on the CodeCademy platform.
+- :seedling: I am currently learning more about Data Engineer on the CodeCademy platform.
 - :two_hearts: I seriously enjoy writing Python and SQL code.
 - :sparkles: I really like to develop myself, gain new knowledge, practice what I have learned as often as possible.
 
