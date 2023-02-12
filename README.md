@@ -2,7 +2,7 @@
 
 My name is Merli Märtin and I am beginner in Data Engineering. At this point I would like to share my knowledge and codes via GitHub.
 
-<div style="width:50%; height:50%;">
+<div style="width:50%; height:50%">
 ![profile](profile.jpg)
 </div>
 
