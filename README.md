@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Merli Märtin and I am beginner in Data Engineering. At this point I would like to share my knowledge and codes via GitHub.
+My name is Merli Märtin and I am beginner. At this point I would like to share my knowledge and codes via GitHub.
 
 <!-- ![profile](profile.jpg) -->
 <img src="profile.jpg" alt="My Profile pic" width="30%" height="30%">
