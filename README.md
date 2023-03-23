@@ -21,6 +21,18 @@ My name is Merli Märtin and I am beginner. At this point I would like to share 
 - Will start working in IT company.
 
 
+#### Favorite Projects
+--------------
+- Python library PANDAS practise: [CODE](https://github.com/MerliMartin/Learning/blob/b23ca1adc7aec3bca77a8d94f28780ff2d84f921/Pandas%20best%20practices/tutorial-manually.ipynb)
+    - Here you can see, what ideas I had about questions and then I also wrote mentor code below my code.
+
+
+- Factorial functions, that I wrote and rememebered and what mentor showed 
+    - [Latest Factorial CODE](https://github.com/MerliMartin/LinkedIn_Learning/blob/ee056836231b48a2e712790e6992860c48ebe4a2/Python%20Essentsials/02_4_Challenge_Factorial.ipynb)
+    - [First Factorial CODE I wrote](https://github.com/MerliMartin/SDA/blob/492eadc01ea50e1018e9130037af0b2c41799c7c/12.%20Recursion/factorial.ipynb)
+
+
+
 <!--
 **MerliMartin/MerliMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
